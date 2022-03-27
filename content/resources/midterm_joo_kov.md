@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a2496f17-8736-2a32-ab1f-41eba1d2ffd3
 resourcetype: Document
 title: midterm_joo_kov.pdf
 uid: c0cfb81b-8a73-1875-1c17-493e5249a136

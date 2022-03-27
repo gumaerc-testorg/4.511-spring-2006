@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a2496f17-8736-2a32-ab1f-41eba1d2ffd3
 resourcetype: Document
 title: midterm_car_mic.pdf
 uid: 9b146958-36d9-7479-b0c5-ea33f63ecf73

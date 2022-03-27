@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a2496f17-8736-2a32-ab1f-41eba1d2ffd3
 resourcetype: Document
 title: paper_nar_gri.pdf
 uid: 59e2e753-3efb-6670-cb1d-5358b45c0649

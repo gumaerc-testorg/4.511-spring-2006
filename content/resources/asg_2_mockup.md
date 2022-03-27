@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bd8adf4-88a3-fc9d-0e9a-4da3fc95bbe9
 resourcetype: Document
 title: asg_2_mockup.pdf
 uid: d7a4fbac-f1a4-e63f-551d-49a1e99ab969

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a2496f17-8736-2a32-ab1f-41eba1d2ffd3
 resourcetype: Document
 title: midterm_nar_gri.pdf
 uid: 39e6d241-7265-e52a-eb39-f22b4f0585b1

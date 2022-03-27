@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9bd8adf4-88a3-fc9d-0e9a-4da3fc95bbe9
 resourcetype: Document
 title: asg_1_analysis.pdf
 uid: 16e0ea0d-c76d-780a-6bb5-6cfa5a67839c

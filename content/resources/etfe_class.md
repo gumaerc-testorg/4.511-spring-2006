@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 6731ee2c-8d03-736e-a6f7-edf07ddcb347
 resourcetype: Document
 title: etfe_class.pdf
 uid: 4897d617-0b6f-4139-13d3-a6fe0151074d
