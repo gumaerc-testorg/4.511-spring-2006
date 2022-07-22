@@ -6,6 +6,7 @@ file: /courses/4-511-digital-mock-up-workshop-spring-2006/59e2e7533efb6670cb1d53
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper_nar_gri.pdf
 uid: 59e2e753-3efb-6670-cb1d-5358b45c0649
 ---
 This resource provides information on the topics of design software, method, results and references.
-
