@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides information about the course introduction
+  and grading criteria of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d7d4c2b2-3f6f-629a-4073-f609af077054
 ---
