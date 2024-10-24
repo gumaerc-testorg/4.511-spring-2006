@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides information on the analysis of the tower.
-file: /courses/4-511-digital-mock-up-workshop-spring-2006/16e0ea0dc76d780a6bb56cfa5a67839c_asg_1_analysis.pdf
+file: /ol-ocw-studio-app/courses/4-511-digital-mock-up-workshop-spring-2006/16e0ea0dc76d780a6bb56cfa5a67839c_asg_1_analysis.pdf
 file_size: 37801
 file_type: application/pdf
 learning_resource_types:

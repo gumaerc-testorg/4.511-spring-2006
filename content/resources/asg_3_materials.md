@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the engineering assemblies, materials,
   model, fabrication and evaluation.
-file: /courses/4-511-digital-mock-up-workshop-spring-2006/d6ae34ccf6927b79e0a258d2d07ff1bb_asg_3_materials.pdf
+file: /ol-ocw-studio-app/courses/4-511-digital-mock-up-workshop-spring-2006/d6ae34ccf6927b79e0a258d2d07ff1bb_asg_3_materials.pdf
 file_size: 70616
 file_type: application/pdf
 learning_resource_types:

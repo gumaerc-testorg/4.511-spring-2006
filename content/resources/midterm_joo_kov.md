@@ -3,7 +3,7 @@ content_type: resource
 description: This resource provides information on the topics of design interpretation,
   horizontal topology, vertical topology, functional facade, connection design, component
   modelling, 3d printing, massing control and evaluation and future development.
-file: /courses/4-511-digital-mock-up-workshop-spring-2006/c0cfb81b8a7318751c17493e5249a136_midterm_joo_kov.pdf
+file: /ol-ocw-studio-app/courses/4-511-digital-mock-up-workshop-spring-2006/c0cfb81b8a7318751c17493e5249a136_midterm_joo_kov.pdf
 file_size: 2535209
 file_type: application/pdf
 learning_resource_types:
