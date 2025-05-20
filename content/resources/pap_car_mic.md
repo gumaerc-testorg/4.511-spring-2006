@@ -4,7 +4,7 @@ description: This resource provides information on the topics of Steps into the 
   of a friction-joined system for a responsive ETFE fa?ade for highrise buildings,
   piano lessons, design of the systems, processing architecture, discussion, next
   steps and references.
-file: /ol-ocw-studio-app/courses/4-511-digital-mock-up-workshop-spring-2006/c63eea28db32fe8514bdaae20b9cd63d_pap_car_mic.pdf
+file: /courses/4-511-digital-mock-up-workshop-spring-2006/c63eea28db32fe8514bdaae20b9cd63d_pap_car_mic.pdf
 file_size: 1103472
 file_type: application/pdf
 learning_resource_types:

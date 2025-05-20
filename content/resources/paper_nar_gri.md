@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource provides information on the topics of design software,
   method, results and references.
-file: /ol-ocw-studio-app/courses/4-511-digital-mock-up-workshop-spring-2006/59e2e7533efb6670cb1d5358b45c0649_paper_nar_gri.pdf
+file: /courses/4-511-digital-mock-up-workshop-spring-2006/59e2e7533efb6670cb1d5358b45c0649_paper_nar_gri.pdf
 file_size: 1673974
 file_type: application/pdf
 learning_resource_types:
